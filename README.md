@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thangnd8
 - 👀 I’m interested in read books and study new things
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thangnd.it (skype)
 
 <!---
